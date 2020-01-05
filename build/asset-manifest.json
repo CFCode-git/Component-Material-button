@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Component-Material-button/build/static/css/main.b728697d.chunk.css",
+    "main.js": "/Component-Material-button/build/static/js/main.86dd5a9a.chunk.js",
+    "main.js.map": "/Component-Material-button/build/static/js/main.86dd5a9a.chunk.js.map",
+    "runtime-main.js": "/Component-Material-button/build/static/js/runtime-main.914edb6f.js",
+    "runtime-main.js.map": "/Component-Material-button/build/static/js/runtime-main.914edb6f.js.map",
+    "static/js/2.373b1faa.chunk.js": "/Component-Material-button/build/static/js/2.373b1faa.chunk.js",
+    "static/js/2.373b1faa.chunk.js.map": "/Component-Material-button/build/static/js/2.373b1faa.chunk.js.map",
+    "index.html": "/Component-Material-button/build/index.html",
+    "precache-manifest.4bae5bfbe225a416f463d4a77f51102d.js": "/Component-Material-button/build/precache-manifest.4bae5bfbe225a416f463d4a77f51102d.js",
+    "service-worker.js": "/Component-Material-button/build/service-worker.js",
+    "static/css/main.b728697d.chunk.css.map": "/Component-Material-button/build/static/css/main.b728697d.chunk.css.map",
+    "static/js/2.373b1faa.chunk.js.LICENSE": "/Component-Material-button/build/static/js/2.373b1faa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914edb6f.js",
+    "static/js/2.373b1faa.chunk.js",
+    "static/css/main.b728697d.chunk.css",
+    "static/js/main.86dd5a9a.chunk.js"
+  ]
+}
